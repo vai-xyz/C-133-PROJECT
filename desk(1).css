@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+h2{
+    width: 100%;
+    height: fit-content;
+    font-size: 23px;
+    background-color: aquamarine;
+    color: black;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+#back{
+    float: left;
+}
+canvas{
+    border-style:solid ;
+    border-radius: 7px;
+    border-color: black;
+    box-shadow: 2px 2px 2px grey;
+    margin-top: 25px;
+}
+a{
+   color: white;
+}
+a:hover{
+    color: aliceblue;
+}
